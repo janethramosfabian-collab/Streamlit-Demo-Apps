@@ -1,0 +1,11 @@
+[theme]
+# No 'base' set — allows the user to toggle between Light and Dark
+# via Streamlit's built-in Settings menu (hamburger → Settings → Theme).
+primaryColor = "#6292d6"
+backgroundColor = "#f6f6f6"
+borderColor = "#d6d6d6"
+baseRadius = "16px"
+font = "Montserrat:https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap"
+headingFont = "Outfit:https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap"
+[theme.sidebar]
+backgroundColor = "#f0f0f0"
