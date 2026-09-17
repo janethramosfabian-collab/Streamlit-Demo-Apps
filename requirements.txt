@@ -22,7 +22,7 @@ matplotlib==3.7.3
 millify==0.1.1
 mistralai==1.5.0
 numerize==0.12
-numpy==2.2.3
+numpy>=1.24.0,<2.0.0
 ollama==0.4.7
 opencv_contrib_python==4.7.0.72
 opencv_python==4.7.0.72
@@ -33,7 +33,7 @@ Pillow==11.1.0
 plotly==5.24.1
 prophet==1.1.5
 protobuf==5.29.3
-psycopg2==2.9.10
+psycopg2-binary==2.9.10
 pyairtable==2.3.3
 pydantic==2.10.6
 pygwalker==0.4.9.14
