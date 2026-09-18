@@ -57,3 +57,4 @@ streamlit_pdf_viewer==0.0.21
 streamlit_vis_timeline==0.3.0
 ydata_profiling==4.12.1
 youtube_transcript_api==0.6.2
+nbformat>=5.7.0
